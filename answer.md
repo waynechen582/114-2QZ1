@@ -48,6 +48,9 @@ public void mt_getResult(){
 
 請在撰寫"說明程式與內容"該塊內容，請把原該塊內上述敘述刪除，該塊上述內容只是用來指引該怎麼撰寫內容。
 
+<img width="1485" height="457" alt="image" src="https://github.com/user-attachments/assets/2a45d688-ebb3-4101-88a7-df7c4fdf95e3" />
+
+
 1. 
 
 Ans: 
